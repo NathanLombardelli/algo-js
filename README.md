@@ -8,6 +8,4 @@ Projet réaliser dans le cadre de la formation BeCode : apprentisage de JS
 
 Nathan Lombardelli
 
-## Link
 
-liens ver la (page)[url]
